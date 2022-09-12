@@ -18,7 +18,14 @@ Content/PersonalFolders
 Content/UI
 Content/WeaponsNTools
 
-Source/
+Plugins/
+*.h
+*.cpp
+Source/FSDEngine
+FSD.Build.cs
+FSDEditor.Target.cs
+FSDGame.Target.cs
+!EPickaxePartLocation.h
 
 # Visual Studio 2015 user specific files
 .vs/
